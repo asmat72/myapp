@@ -2,6 +2,8 @@
 ## 🚀 CI/CD Pipeline with GitHub Actions & Docker (No Cloud Needed)
 
 - 📌 Objective:
+  - Clone the repository: 
+    - git clone ("https://github.com/asmat72/myapp.git")
   - Set up a complete CI/CD pipeline that:
     - Builds a Docker image
     - Runs automated tests
