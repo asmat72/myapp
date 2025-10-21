@@ -18,17 +18,17 @@
 
 - 📁 Project Structure:
     - myapp/
-    -   ├── app.py
-    -   ├── Dockerfile
-    -   ├── requirements.txt
-    -   ├── tests/
-    -        │ └── test_app.py
-    -   ├── docker-compose.yml
-    -   ├── deployment.yaml
-    -   ├── .github/
-    -        │ └── workflows/
-    -             │ └── ci-cd.yml
-    -  └── README.md
+       ├── app.py
+       ├── Dockerfile
+       ├── requirements.txt
+       ├── tests/
+            │ └── test_app.py
+       ├── docker-compose.yml
+       ├── deployment.yaml
+       ├── .github/
+            │ └── workflows/
+                 │ └── ci-cd.yml
+       └── README.md
 
 - 🧰 Setup Instructions:
     - 1. Write the Dockerfile
